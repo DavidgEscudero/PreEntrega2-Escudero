@@ -1,0 +1,37 @@
+*{
+  font-size: 16px;
+  
+}
+.barra-mia{
+  background-color: black;
+padding: 1%;
+
+}
+.items-mia{
+ color: white;
+}
+main{
+  background-color: grey;
+}
+.primary{
+  background-color: dodgerblue;
+}
+.footer-mio{
+  background-color: red;
+}
+.container-mio{
+  background-color: red;
+}
+.container-faq{
+  display: flex;
+  flex-direction: column;
+}
+.faq-preguntas{
+ 
+  align-items: center;
+
+}
+.titulo{
+  text-align: center;
+
+}
