@@ -1,0 +1,32 @@
+.titulo{
+    @include center
+}
+
+.cards-mias{
+    @include cards
+}
+
+.container-faq{
+    @extend %orden
+}
+.faq-preguntas{
+    @extend %center
+}
+.primary{
+    color: nth($colores, 3);
+}
+.container.mio{
+   color: nth($colores, 1);
+}
+.items-mia{
+    color: nth($colores, 4);
+}
+*{
+    font-size: 16px;
+}
+body{
+    overflow-x: hidden;
+}
+.produ{
+    @include center
+}
