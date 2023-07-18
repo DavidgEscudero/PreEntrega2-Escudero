@@ -12,6 +12,8 @@
 .faq-preguntas{
     @extend %center
 }
+
+
 .primary{
     color: nth($colores, 3);
 }
@@ -29,4 +31,7 @@ body{
 }
 .produ{
     @include center
+}
+.btn-mio{
+    color: nth($colores , 1 );
 }
