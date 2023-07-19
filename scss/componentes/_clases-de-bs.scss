@@ -2,7 +2,7 @@
     @include center
 }
 
-.cards-mia{
+.cards-mias{
     @include cards
 }
 
@@ -34,7 +34,4 @@ body{
 }
 .btn-mio{
     color: nth($colores , 1 );
-}
-.cards-mio{
-    @include otrascards
 }
