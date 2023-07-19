@@ -20,8 +20,8 @@
   color: dodgerblue;
 }
 
-.container.mio {
-  color: red;
+.container-mio {
+  background-color: red;
 }
 
 .items-mia {
@@ -54,7 +54,7 @@ main {
 }
 
 .footer-mio {
-  color: red;
+  background-color: red;
 }
 
 /*# sourceMappingURL=style.css.map */
