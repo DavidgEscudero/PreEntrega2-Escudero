@@ -44,6 +44,11 @@ body {
   color: red;
 }
 
+.card-mio {
+  height: 100%;
+  overflow: hidden;
+}
+
 .barra-mia {
   background-color: black;
   padding: 1%;

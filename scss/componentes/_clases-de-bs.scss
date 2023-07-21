@@ -35,3 +35,7 @@ body{
 .btn-mio{
     color: nth($colores , 1 );
 }
+.card-mio{
+    @include otrascards
+
+}
