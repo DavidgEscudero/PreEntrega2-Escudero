@@ -45,12 +45,17 @@ body {
 }
 
 .cards-mias {
-  height: 370px;
+  height: 320px;
   overflow: hidden;
 }
 
 .card-mio {
   height: 100%;
+  overflow: hidden;
+}
+
+.cards-asociados {
+  height: 200px;
   overflow: hidden;
 }
 
