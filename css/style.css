@@ -49,6 +49,11 @@ body {
   overflow: hidden;
 }
 
+.cards-mias {
+  height: 400px;
+  overflow: hidden;
+}
+
 .barra-mia {
   background-color: black;
   padding: 1%;
